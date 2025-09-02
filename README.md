@@ -5,25 +5,27 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 ### 📂 Data Analyst 
 Link Project | Category | Skill | Tools | Project Description 
 ---|---|---|---|---
-💰 [Predict Loan Default Customers]()|VIX - Home Credit Indonesia: Data Scientist| Data Wraggling, EDA, Supervised Learning - **Classification** |pandas, matplotlib, seaborn, scikit-learn, scipy |Predicted customer defaults or customer would experience payment difficulties. Conducted data cleansing on raw data and analyzed over 100 features using statistical methods for feature selection. The best model achieved an accuracy of 87% and an AUC of 73% using Logistic Regression. Created a simulation by deploying a web application for loan approval prediction using Streamlit.
+ 🚦[Interstate Traffic](https://github.com/HanifRafandi014/Interstate_Traffic)|Practice Project Data Analyst| Business Understanding, Data Preparation, Data Visualization |........|........
+🏬 [Super Store](https://github.com/HanifRafandi014/Super_Store)|MariBelajar Bootcamp: Data Analyst| Business Understanding, Data Preparation, Data Visualization |........|........
 <br>
 
 ### 📂 Data Science & Machine Learning
 Link Project | Category | Skill | Tools | Project Description 
 ---|---|---|---|---
-💰 [Predict Loan Default Customers]()|VIX - Home Credit Indonesia: Data Scientist| Data Wraggling, EDA, Supervised Learning - **Classification** |pandas, matplotlib, seaborn, scikit-learn, scipy |Predicted customer defaults or customer would experience payment difficulties. Conducted data cleansing on raw data and analyzed over 100 features using statistical methods for feature selection. The best model achieved an accuracy of 87% and an AUC of 73% using Logistic Regression. Created a simulation by deploying a web application for loan approval prediction using Streamlit.
+🦠 [Predict Covid-19](https://github.com/HanifRafandi014/Predict_Covid_19)|Practice Project Data Science| Business Understanding, Data Preparation, Data Visualization, Modelling |........|........
 <br>
 
 ### 📂 SQL & Dashboard
 Link Project | Category | Skill | Tools | Project Description 
 ---|---|---|---|---
-💰 [Predict Loan Default Customers]()|VIX - Home Credit Indonesia: Data Scientist| Data Wraggling, EDA, Supervised Learning - **Classification** |pandas, matplotlib, seaborn, scikit-learn, scipy |Predicted customer defaults or customer would experience payment difficulties. Conducted data cleansing on raw data and analyzed over 100 features using statistical methods for feature selection. The best model achieved an accuracy of 87% and an AUC of 73% using Logistic Regression. Created a simulation by deploying a web application for loan approval prediction using Streamlit.
+ 🚦[Interstate Traffic](https://github.com/HanifRafandi014/Interstate_Traffic)|Practice Project Data Analyst| Business Understanding, Data Preparation, Data Visualization |........|........
+🏬 [Super Store](https://github.com/HanifRafandi014/Super_Store)|MariBelajar Bootcamp: Data Analyst| Business Understanding, Data Preparation, Data Visualization |........|........
 <br>
 
 ### 📂 Data Entry
 Link Project | Category | Skill | Tools | Project Description 
 ---|---|---|---|---
-💰 [Predict Loan Default Customers]()|VIX - Home Credit Indonesia: Data Scientist| Data Wraggling, EDA, Supervised Learning - **Classification** |pandas, matplotlib, seaborn, scikit-learn, scipy |Predicted customer defaults or customer would experience payment difficulties. Conducted data cleansing on raw data and analyzed over 100 features using statistical methods for feature selection. The best model achieved an accuracy of 87% and an AUC of 73% using Logistic Regression. Created a simulation by deploying a web application for loan approval prediction using Streamlit.
+💰 [......]()|........| ........ |.........|.........
 <br>
 
 ### 📂 Complicated Course and Certification Skill
